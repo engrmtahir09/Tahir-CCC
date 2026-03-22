@@ -6,3 +6,4 @@ scikit-learn
 pymoo
 pydantic
 python-multipart
+gunicorn
